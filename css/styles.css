@@ -1,0 +1,87 @@
+body {
+background: #febbbb; /* Old browsers */
+background: -moz-linear-gradient(top,  #febbbb 0%, #a585ea 65%, #7c4fd6 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#febbbb), color-stop(65%,#a585ea), color-stop(100%,#7c4fd6)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #febbbb 0%,#a585ea 65%,#7c4fd6 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #febbbb 0%,#a585ea 65%,#7c4fd6 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #febbbb 0%,#a585ea 65%,#7c4fd6 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #febbbb 0%,#a585ea 65%,#7c4fd6 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#febbbb', endColorstr='#7c4fd6',GradientType=0 ); /* IE6-9 */
+;
+font-family: 'Oswald', sans-serif;
+
+}
+
+
+.wreck {
+position: relative;
+top: 200px;
+left: 40px;
+z-index: 10;
+
+}
+
+.weep {
+position: relative;
+top: 225px;
+}
+
+.back {
+font-style: font-family: 'Oswald', sans-serif;
+font-size: 2em;
+position: relative;
+left: 517px;
+top: -120px;
+}
+
+
+.bear {
+position: relative;
+left: 175px;
+top: -100px;
+
+}
+
+
+.blunt {
+position: relative;
+width: 100px;
+top: -1000px;
+left: 150px;
+}
+
+.burger {
+position: relative;
+top: -1115px;
+left: 380px;
+}
+
+.banner {
+position: relative;
+top: -700px;
+left: -550px;
+z-index: -1;
+}
+
+.miley1{
+position: relative;
+width: 465px;
+top: -1650px;
+left: 800px;
+z-index: -1;
+
+}
+
+.fuck{
+position: relative;
+width: 465px;
+top: -1000px;
+left: 6px;
+z-index: -1;
+}
+
+.body{
+position: relative;
+top: -977px;
+left: 627px;	
+}
